@@ -1,4 +1,4 @@
-# Angela Yu Web Development - Boss Level Challenge 2 - The Simon Game
+
 # HTML/CSS/JS & DOM - Simon Game
 
 - [About this project](#about)
